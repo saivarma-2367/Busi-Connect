@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Busi-Connect/static/css/main.3f446006.css",
-    "main.js": "/Busi-Connect/static/js/main.b608d41f.js",
+    "main.js": "/Busi-Connect/static/js/main.42fea0d0.js",
     "static/media/work2.png": "/Busi-Connect/static/media/work2.a4d0fabc5c17977db8b9.png",
     "static/media/new_work.jpg": "/Busi-Connect/static/media/new_work.4c4f5f689196e396b243.jpg",
     "static/media/work.jpg": "/Busi-Connect/static/media/work.6c03f8fc489e4692d42e.jpg",
     "static/media/bulb.webp": "/Busi-Connect/static/media/bulb.13162cfc39f6060659ab.webp",
     "index.html": "/Busi-Connect/index.html",
     "main.3f446006.css.map": "/Busi-Connect/static/css/main.3f446006.css.map",
-    "main.b608d41f.js.map": "/Busi-Connect/static/js/main.b608d41f.js.map"
+    "main.42fea0d0.js.map": "/Busi-Connect/static/js/main.42fea0d0.js.map"
   },
   "entrypoints": [
     "static/css/main.3f446006.css",
-    "static/js/main.b608d41f.js"
+    "static/js/main.42fea0d0.js"
   ]
 }
