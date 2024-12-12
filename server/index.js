@@ -5,6 +5,12 @@ const jwt = require('jsonwebtoken');
 const cors = require('cors');
 
 const app = express();
+app.use(cors(
+  {
+    origin:["https://deploy-Busi-Connect.vercel.app"],
+    methods:["POST","GET"],
+    credentials:true
+          
 const PORT = process.env.PORT || 5000;
 
 const MONGO_URI = "mongodb+srv://saivarma:12345@cluster0.eu34b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
